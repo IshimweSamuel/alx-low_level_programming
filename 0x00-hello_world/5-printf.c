@@ -1,4 +1,4 @@
-#include <stdio.sh>
+#include <stdio.h>
 /**
  *main - A program that prints an output using printf funtion
  *return: "0" (Success)
